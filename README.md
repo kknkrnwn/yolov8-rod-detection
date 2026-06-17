@@ -7,15 +7,19 @@ A computer vision research project that implements **YOLOv8** for real-time obst
 ## 📸 Project Preview
 
 **Dataset Class Distribution**
+
 <img width="650" alt="distribusi kelas" src="https://github.com/user-attachments/assets/c4b8a97f-11ae-42f2-beaf-81cea43684dc" />
 
 **Confusion Matrix**
+
 <img width="650" alt="confusion matrix" src="https://github.com/user-attachments/assets/285f963c-af5b-469b-a12d-c129c6227708" />
 
 **Training Model**
+
 <img width="650" alt="train" src="https://github.com/user-attachments/assets/5d68577b-7f3b-42ac-bbe9-aa5d1dd83cbc" />
 
 **Prediction Results**
+
 <img width="650" alt="prediksi" src="https://github.com/user-attachments/assets/90c44939-09ac-4cbb-b3a6-5898c1bdd8ac" />
 
 ---
